@@ -1,10 +1,9 @@
 function main() {
 
-    var ourDecimal = 8.2;
-
     // Only change code below this line
 
     var myDecimal = 8.2;
+    var myDecimalE = 0.00254;
 
     // Only change code above this line
 
