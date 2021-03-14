@@ -4,7 +4,8 @@ function main() {
 
     // Only change code below this line
 
-    var myRes = myRes - 1;
+    var myRes = myRes--;
+    myRes = myRes - 1;
 
     // Only change code above this line
 
